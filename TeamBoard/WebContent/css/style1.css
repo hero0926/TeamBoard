@@ -1,0 +1,137 @@
+@CHARSET "EUC-KR";
+
+table, td, th{
+	padding : 5px;
+	
+}
+
+.big{
+  font : 20px bold;
+  font-stretch: expanded;	
+  color: #fff;	
+  text-align: center;
+}
+
+.btn-gongzi {
+  color: #fff;
+  background-color: #428bca;
+  border-color: #357ebd;
+  border : 30px;
+  padding-right : 10px;
+   
+}
+
+.btn-gongzi:hover,
+.btn-gongzi:focus,
+.btn-gongzi:active,
+.btn-gongzi.active,
+.open .dropdown-toggle.btn-gongzi {
+  color: #fff;
+  background-color: #3276b1;
+  border-color: #285e8e;
+}
+
+.btn-yellow {
+  color: #fff;
+  background-color: #f0ad4e;
+  border-color: #eea236;
+  padding-right : 10px;
+  font : 15px;
+  font-stretch: expanded;
+}
+.btn-yellow:hover,
+.btn-yellow:focus,
+.btn-yellow:active,
+.btn-yellow.active,
+.open .dropdown-toggle.btn-yellow {
+  color: #fff;
+  background-color: #ed9c28;
+  border-color: #d58512;
+}
+
+.btn-red {
+  color: #fff;
+  background-color: #d9534f;
+  border-color: #d43f3a;
+  padding-right : 10px;
+  font : 15px;
+  font-stretch: expanded;
+}
+.btn-red:hover,
+.btn-red:focus,
+.btn-red:active,
+.btn-red.active,
+.open .dropdown-toggle.btn-red {
+  color: #fff;
+  background-color: #d2322d;
+  border-color: #ac2925;
+}
+
+
+.btn-blue {
+  color: #fff;
+  background-color: #5bc0de;
+  border-color: #46b8da;
+  padding-right : 10px;
+  font : 15px;
+  font-stretch: expanded;
+}
+.btn-blue:hover,
+.btn-blue:focus,
+.btn-blue:active,
+.btn-blue.active,
+.open .dropdown-toggle.btn-blue {
+  color: #fff;
+  background-color: #39b3d7;
+  border-color: #269abc;
+  
+  
+}
+
+.gongzi {
+  border-color: #428bca;
+}
+.gongzi-heading {
+  color: #fff;
+  background-color: #428bca;
+  border-color: #428bca;
+}
+.green {
+  border-color: #d6e9c6;
+}
+.green-heading {
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+}
+
+.blue {
+  border-color: #bce8f1;
+}
+.blue-heading {
+  color: #31708f;
+  background-color: #d9edf7;
+  border-color: #bce8f1;
+}
+.yellow {
+  border-color: #faebcc;
+}
+.yellow-heading {
+  color: #8a6d3b;
+  background-color: #fcf8e3;
+  border-color: #faebcc;
+}
+.red {
+  border-color: #ebccd1;
+}
+.red-heading {
+  color: #a94442;
+  background-color: #f2dede;
+  border-color: #ebccd1;
+}
+
+a {
+	color: black;
+	font-size: 12px;
+    border : 3px;
+}
